@@ -51,9 +51,8 @@
   [GitHub官方网站](http://github.com "点击进入GitHub")
 
   ###插入图片
-  ![壁纸照片](![1.jpg](https://s2.loli.net/2022/07/16/RMudzclxNFas91Z.jpg))
-
-###编辑代码
+  ![壁纸照片](https://sm.ms/delete/T9tPyJcCFwshHE1AU5bLzjpQm6)
+  ###编辑代码
 ```c
 #include<stdio.h>
 int main(void)
@@ -64,4 +63,5 @@ int main(void)
 }
 
 ```
+
 
