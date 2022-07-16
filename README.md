@@ -34,3 +34,34 @@
      2. 女
   
 
+###引用
+  > 一级引用
+  >> 二级
+  >>> 三级
+
+  ###表格
+
+  游戏名|游戏价格|排行
+  --|:--:|--:
+  PUBG|$22|3
+  LOL|$1|43
+  XYYX|$23|12
+
+  ###超链接
+  [GitHub官方网站](http://github.com "点击进入GitHub")
+
+  ###插入图片
+  ![壁纸照片](![1.jpg](https://s2.loli.net/2022/07/16/RMudzclxNFas91Z.jpg))
+
+###编辑代码
+```c
+#include<stdio.h>
+int main(void)
+{
+
+  while(1);
+  return 0;
+}
+
+```
+
